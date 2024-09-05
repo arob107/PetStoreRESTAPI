@@ -29,8 +29,8 @@ public class PetStore {
 	private String petStoreAddress;
 	private String petStoreCity;
 	private String petStoreState;
-	private String petStoreZipCode;
-	private String petStorePhoneNumber;
+	private String petStoreZip;
+	private String petStorePhone;
 
 	/*
 	 * Add @EqualsAndHashCode.Exclude and @ToString.Exclude to all of the recursive
